@@ -1,0 +1,19 @@
+QUIZ APPLICATION — RUN INSTRUCTIONS
+
+1. Make sure Python 3 is installed.
+2. Open a terminal/Command Prompt in this folder.
+3. Run:
+
+   python quiz_application.py
+
+Windows alternative:
+
+   py quiz_application.py
+
+No external packages are required.
+
+If Tkinter is missing on your Python installation, install/use a Python distribution that includes Tkinter.
+
+Run tests with:
+
+   python -m unittest discover -s tests -v

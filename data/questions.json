@@ -1,0 +1,482 @@
+[
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Mars",
+    "category": "General Knowledge",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "options": [
+      "Tokyo",
+      "Kyoto",
+      "Osaka",
+      "Hiroshima"
+    ],
+    "answer": "Tokyo",
+    "category": "General Knowledge",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which ocean is the largest on Earth?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": "Pacific Ocean",
+    "category": "General Knowledge",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which gas makes up the largest portion of Earth's atmosphere?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "answer": "Nitrogen",
+    "category": "General Knowledge",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The Great Wall is located in which country?",
+    "options": [
+      "China",
+      "India",
+      "Japan",
+      "Mongolia"
+    ],
+    "answer": "China",
+    "category": "General Knowledge",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": [
+      "Barometer",
+      "Thermometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "answer": "Barometer",
+    "category": "General Knowledge",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which continent has the largest land area?",
+    "options": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "North America"
+    ],
+    "answer": "Asia",
+    "category": "General Knowledge",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "options": [
+      "Pound sterling",
+      "Euro",
+      "Dollar",
+      "Franc"
+    ],
+    "answer": "Pound sterling",
+    "category": "General Knowledge",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the United States?",
+    "options": [
+      "France",
+      "Spain",
+      "Italy",
+      "Canada"
+    ],
+    "answer": "France",
+    "category": "General Knowledge",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which is the smallest prime number?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "0"
+    ],
+    "answer": "2",
+    "category": "General Knowledge",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": [
+      "def",
+      "function",
+      "fun",
+      "define"
+    ],
+    "answer": "def",
+    "category": "Python",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which data type stores an ordered, mutable collection in Python?",
+    "options": [
+      "list",
+      "tuple",
+      "set",
+      "string"
+    ],
+    "answer": "list",
+    "category": "Python",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does len([10, 20, 30]) return?",
+    "options": [
+      "3",
+      "2",
+      "30",
+      "0"
+    ],
+    "answer": "3",
+    "category": "Python",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which symbol starts a single-line comment in Python?",
+    "options": [
+      "#",
+      "//",
+      "--",
+      "/*"
+    ],
+    "answer": "#",
+    "category": "Python",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the result of 7 // 2 in Python?",
+    "options": [
+      "3",
+      "3.5",
+      "4",
+      "2"
+    ],
+    "answer": "3",
+    "category": "Python",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which collection stores unique elements and is unordered?",
+    "options": [
+      "set",
+      "list",
+      "tuple",
+      "dictionary"
+    ],
+    "answer": "set",
+    "category": "Python",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which function converts a string such as '25' into an integer?",
+    "options": [
+      "int()",
+      "str()",
+      "float()",
+      "input()"
+    ],
+    "answer": "int()",
+    "category": "Python",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which statement is commonly used to handle exceptions in Python?",
+    "options": [
+      "try-except",
+      "if-else",
+      "for-in",
+      "def-return"
+    ],
+    "answer": "try-except",
+    "category": "Python",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the output of 2 ** 3 in Python?",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "5"
+    ],
+    "answer": "8",
+    "category": "Python",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which file mode opens a text file for writing and replaces existing content?",
+    "options": [
+      "w",
+      "r",
+      "a",
+      "x"
+    ],
+    "answer": "w",
+    "category": "Python",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the chemical symbol for oxygen?",
+    "options": [
+      "O",
+      "Ox",
+      "C",
+      "N"
+    ],
+    "answer": "O",
+    "category": "Science",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What force pulls objects toward Earth?",
+    "options": [
+      "Gravity",
+      "Friction",
+      "Magnetism",
+      "Tension"
+    ],
+    "answer": "Gravity",
+    "category": "Science",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which organ pumps blood through the human body?",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Liver",
+      "Kidneys"
+    ],
+    "answer": "Heart",
+    "category": "Science",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is H2O commonly known as?",
+    "options": [
+      "Water",
+      "Hydrogen peroxide",
+      "Oxygen",
+      "Salt"
+    ],
+    "answer": "Water",
+    "category": "Science",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which process allows green plants to make food using sunlight?",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Digestion",
+      "Fermentation"
+    ],
+    "answer": "Photosynthesis",
+    "category": "Science",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the SI unit of electric current?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "answer": "Ampere",
+    "category": "Science",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which particle has a negative electric charge?",
+    "options": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Photon"
+    ],
+    "answer": "Electron",
+    "category": "Science",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "At sea level, water normally boils at what temperature on the Celsius scale?",
+    "options": [
+      "100°C",
+      "0°C",
+      "50°C",
+      "212°C"
+    ],
+    "answer": "100°C",
+    "category": "Science",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which blood cells primarily help defend the body against infection?",
+    "options": [
+      "White blood cells",
+      "Red blood cells",
+      "Platelets",
+      "Plasma"
+    ],
+    "answer": "White blood cells",
+    "category": "Science",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the center of an atom called?",
+    "options": [
+      "Nucleus",
+      "Electron shell",
+      "Molecule",
+      "Ion"
+    ],
+    "answer": "Nucleus",
+    "category": "Science",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is 15 × 4?",
+    "options": [
+      "60",
+      "45",
+      "75",
+      "50"
+    ],
+    "answer": "60",
+    "category": "Mathematics",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": [
+      "12",
+      "14",
+      "10",
+      "16"
+    ],
+    "answer": "12",
+    "category": "Mathematics",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is 25% of 200?",
+    "options": [
+      "50",
+      "25",
+      "75",
+      "100"
+    ],
+    "answer": "50",
+    "category": "Mathematics",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the value of 2 + 3 × 4 using standard precedence?",
+    "options": [
+      "14",
+      "20",
+      "24",
+      "10"
+    ],
+    "answer": "14",
+    "category": "Mathematics",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the next prime number after 17?",
+    "options": [
+      "19",
+      "21",
+      "23",
+      "18"
+    ],
+    "answer": "19",
+    "category": "Mathematics",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "If x + 7 = 15, what is x?",
+    "options": [
+      "8",
+      "7",
+      "22",
+      "6"
+    ],
+    "answer": "8",
+    "category": "Mathematics",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the area of a rectangle with length 8 cm and width 5 cm?",
+    "options": [
+      "40 cm²",
+      "26 cm²",
+      "13 cm²",
+      "80 cm²"
+    ],
+    "answer": "40 cm²",
+    "category": "Mathematics",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is 3/4 expressed as a decimal?",
+    "options": [
+      "0.75",
+      "0.25",
+      "0.34",
+      "1.25"
+    ],
+    "answer": "0.75",
+    "category": "Mathematics",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 2⁵?",
+    "options": [
+      "32",
+      "10",
+      "25",
+      "64"
+    ],
+    "answer": "32",
+    "category": "Mathematics",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A triangle has angles 60° and 70°. What is the third angle?",
+    "options": [
+      "50°",
+      "40°",
+      "60°",
+      "70°"
+    ],
+    "answer": "50°",
+    "category": "Mathematics",
+    "difficulty": "Medium"
+  }
+]

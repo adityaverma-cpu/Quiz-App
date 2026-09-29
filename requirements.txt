@@ -1,0 +1,2 @@
+# No third-party packages are required.
+# Tkinter and all other modules used by this project are part of Python's standard library.
